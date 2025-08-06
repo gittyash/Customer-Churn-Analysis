@@ -31,7 +31,7 @@ The analysis uncovered several significant factors that influence customer churn
 
 Below is a screenshot of the main dashboard, which provides a high-level overview of the key metrics and churn drivers.
 
-> **Note:** Replace the URL below with a link to your own screenshot after you upload it to GitHub.
+>
 
 ![Dashboard Preview](https://i.imgur.com/your-dashboard-screenshot-url.png)
 
